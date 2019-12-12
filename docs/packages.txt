@@ -1,0 +1,6 @@
+tesseract conda-forge
+pytesseract conda-forge
+PyPDF2 conda-forge
+pdf2image conda-forge
+
+
